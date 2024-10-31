@@ -83,8 +83,6 @@ function listarProductos(){
     document.write("<hr>");
 }
 
-
-
 // Ejecución de funciones
 agregarProducto(); //paso 2
 mostrarInventario(); //paso 3
